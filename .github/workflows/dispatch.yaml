@@ -1,3 +1,4 @@
+name: Mannually triggered workflow
 on:
   workflow_dispatch:
     inputs:
